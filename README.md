@@ -1,9 +1,6 @@
 
-# About:
-Hi Everyone! My name is Iain Campbell, and I am the current Head of strategy and innovation at a global business process outsourcing organization. 
-
-My professional focus is on the optimisation of critical processes, chiefly where the solution relies heavily on **Strategy**, **Marketing**, **Technology**, and **Digital Transformation**. 
-Most of my objectives require working in partnership with our extensive in-house development team and multiple other technical teams / vendors. 
+# Bio:
+An experienced ITIL business leader and technology strategist with significant global exposure and a broad range of equitable experience. I provide operational leadership and expert technical knowledge within the business domain to make strategic and data- driven decisions.
 
 #### Note:
 I have a significant backlog of older projects I am uploading to bring this page up to date.
@@ -19,9 +16,11 @@ I have a significant backlog of older projects I am uploading to bring this page
 - I developed lean software solutions for operational optimisation and cost reduction. Multiple initiatives I have led established have seen global adoption.
 
 ## Skills:
-Vendor management | Client services |Software | Operational leadership | Product management | Process management | Business development | Strategic  planning | Innovation | Offshoring | Resource management | Management Consultancy | Marketing & Marketing Communications | Negotiation | Contract tenders & Bids |  Data Processing |Analytics | Relationship Management | Product design & Development | Change management
+VENDOR MANAGEMENT |	OPERATIONAL LEADERSHIP | CLIENT SERVICES | SALES | 	OFFSHORING |  NEGOTIATION | FACILITIATION | TOM DEFINITION | 	BUSINESS PROCESS IMPOVEMENT | ITIL SERVICE MANAGEMENT	| STRATEGIC PLANNING | ANALYTICS | DATA SCIENCE | INNOVATION | SOFTWARE DEVELOPMENT	| BUSINESS DEVELOPMENT | DATABASES | CUSTOMER SUCCESS | RELATIONSHIP MANAGEMENT	| PRODUCT MANAGMENT	| QA | 	MARKETINGc |
 
-**Workflow Automation & Business Tools**: RPA, Blue Prism, CRM, ATS, Salesforce, Workday 
+
+**Workflow Automation & Business Tools**: 
+RPA, Blue Prism, CRM, ATS, Salesforce, Workday 
 Product Management, Rapid Prototyping, Product demo, Feature integration. Figma
 **Frameworks**:  Agile, SAFe, Lean UX, Design Thinking, ITIL
 
