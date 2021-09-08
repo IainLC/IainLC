@@ -31,16 +31,30 @@ Product Management, Rapid Prototyping, Product demo, Feature integration. Figma
 ### Tecladder 
 *TecLadder is a full-service consultancy that can demystify digital to transform your business.* 
 
-### Codecademy Chapter Leader | Makati
+### Codecademy Chapter Leader | Makati, Ph
 *https://community.codecademy.com/makati/*
 
 ## Education:
-### University Of Manchester
+### University Of Manchester -- Manchester, UK
 B.S Mechanical Engineering and Management (2012)
 
 ### Social:
 Find out more about me on my visiting on my other social accounts.
 LinkedIn:  https://www.linkedin.com/in/ilceng
 Twitter: https://twitter.com/tecladder
+
+### Certificates & Badges
+<a target="_blank" href="https://www.credly.com/badges/a716856c-92eb-4be3-b639-c41c5965b5a3?source=linked_in_profile">*Google Data Analytics Certificate*</a> -- Google
+
+<a target="_blank" href="https://www.credly.com/badges/e1727502-1c70-411c-bb5d-4d386a8c473e/public_url">*ITIL® 4 Foundation CPD*</a> -- AXELOS Global Best Practice
+
+<a target="_blank" href="https://www.codecademy.com/profiles/IainLC/certificates/5b32457b646caa5007c30975">*Web Development Career Path* </a> -- CodeCademy Full stack Certificate (MERN)
+
+<a target="_blank" href="https://www.scrumstudy.com/certification/verify?type=SFC&number=812951">*Scrum Fundamentals Certified (SFC)* </a> -- ScrumStrudy
+
+<a target="_blank" href="https://www.credly.com/earner/earned/badge/cd69d01e-ee44-4458-81f5-488192f26dde">*IBM Data Science Orientation* </a> -- IBM
+
+<a target="_blank" href="https://www.credly.com/earner/earned/badge/5e14d5cf-7aab-407d-a551-f659cef9c7ec">*IBM Tools for Data Science* </a> -- IBM
+
 
 > I can offer a lot of practical experience concerning enterprise software development and digital process transformation and would love to learn how I can help you achieve your objectives. 
