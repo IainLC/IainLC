@@ -52,9 +52,9 @@ Twitter: https://twitter.com/tecladder
 
 <a target="_blank" href="https://www.scrumstudy.com/certification/verify?type=SFC&number=812951">*Scrum Fundamentals Certified (SFC)* </a> -- ScrumStrudy
 
-<a target="_blank" href="https://www.credly.com/earner/earned/badge/cd69d01e-ee44-4458-81f5-488192f26dde">*IBM Data Science Orientation* </a> -- IBM
+<a target="_blank" href="https://www.credly.com/earner/earned/badge/dbecce70-5c36-4bff-b7f8-67f4c1d8a774">*Data Science Foundations Specialization* </a> -- IBM
 
-<a target="_blank" href="https://www.credly.com/earner/earned/badge/5e14d5cf-7aab-407d-a551-f659cef9c7ec">*IBM Tools for Data Science* </a> -- IBM
+<a target="_blank" href="https://www.credly.com/earner/earned/badge/9ea0cde6-051d-402e-9f51-f252534b6a18">*Data Science Fundamentals Specialization (V2) </a> -- IBM
 
 
-> I can offer a lot of practical experience concerning enterprise software development and digital process transformation and would love to learn how I can help you achieve your objectives. 
+> I can offer significant practical experience concerning enterprise software development and digital process transformation and would love to learn how I can help you achieve your objectives. 
